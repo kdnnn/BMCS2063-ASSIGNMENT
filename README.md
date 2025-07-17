@@ -11,19 +11,25 @@ Group Assignment for BMCS2063 Data Structure &amp; Algorithms
 | Eng Joe Yee            | Doctor             | Manage doctor information, duty schedules and availability tracking.       |
 
 
-Entity ... 
-**Consultation** 
-String consultationId
-String consultationDateTime
-String consultationNotes
-String nextAppointmentDate (Optional/nullable)
-String status (Completed/Pending/Cancelled)
+## Entity
+**Consultation**
+1. String consultationId
+2. String consultationDateTime
+3. String consultationNotes
+4. String nextAppointmentDate (Optional/nullable)
+5. String status (Completed/Pending/Cancelled)
 
 **Medical Treatment**
-...
+1. 
+2. 
+3. 
 
 **Patient**
-...
+1. 
+2. 
+3. 
 
 **Doctor**
-...
+1. 
+2. 
+3. 
